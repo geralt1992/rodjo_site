@@ -1,0 +1,24 @@
+multilang
+email js system
+pop up cookie prava
+
+navbar
+
+main page:
+    hero aw effect (lun dev carousel) - što vam nudimo?
+    about us
+    usluge
+    radovi
+    svjedočanstva
+    footer (contacts, form?)
+
+product page:
+    js mastery? 
+
+
+vau effect:
+    1) 3d probaj ubaciti
+    2) gsap scrool nek bude bomba 
+    3) lun dev scrool
+
+
